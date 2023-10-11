@@ -2,9 +2,13 @@
 
 Hi! My name is **Rajnish Kumar**, I have made this modern and fully responsive CryptoX react app using reactjs and ChakraUI.
 
+🔗 live-link : https://react-crypto-qr3wbm2js-rajnish-kumars-projects-5f8487f8.vercel.app/<br>
+
 # Preview
 
-🔗 live-link : https://react-crypto-qr3wbm2js-rajnish-kumars-projects-5f8487f8.vercel.app/<br>
+![Screenshot (92)](https://github.com/redoxrj/React-crypto-app/assets/140983045/5f505d8c-0955-4ea9-98f1-a900ccbc64b2)
+![Screenshot (90)](https://github.com/redoxrj/React-crypto-app/assets/140983045/4d57a658-b94e-44a3-b939-3e963c316ff3)
+![Screenshot (91)](https://github.com/redoxrj/React-crypto-app/assets/140983045/9493d86a-ef10-450e-8814-866984fe8e9d)
 
 # Key Features
 
